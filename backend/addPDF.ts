@@ -3,7 +3,7 @@ import { getDocument } from "pdfjs-dist";
 import { ChromaClient } from "chromadb";
 import { TokenTextSplitter } from "@langchain/textsplitters";
 
-const extractTextFromPDF = async (filePath) => {
+const extractTextFromPDF = async (filePath: string) => {
   const data = new Uint8Array(fs.readFileSync(filePath));
   const pdfDoc = await getDocument({ data }).promise;
   let text = "";
@@ -11,13 +11,13 @@ const extractTextFromPDF = async (filePath) => {
   for (let i = 1; i <= pdfDoc.numPages; i++) {
     const page = await pdfDoc.getPage(i);
     const content = await page.getTextContent();
-    text += content.items.map((item) => item.str).join(" ");
+    text += content.items.map((item: any) => item.str).join(" ");
   }
 
   return text;
 };
 
-const splitTextIntoChunks = async (text, chunkSize) => {
+const splitTextIntoChunks = async (text: string, chunkSize: number) => {
   const textSplitter = new TokenTextSplitter({
     chunkSize: 250,
     chunkOverlap: 50,
@@ -27,8 +27,8 @@ const splitTextIntoChunks = async (text, chunkSize) => {
   return chunks;
 };
 
-const addPDFToChromaDB = async (pdfPath) => {
-  const client = new ChromaClient({ endpoint: "http://localhost:8000" });
+const addPDFToChromaDB = async (pdfPath: string) => {
+  const client = new ChromaClient({ path: "http://localhost:8000" });
   const pdfText = await extractTextFromPDF(pdfPath);
 
   const chunkSize = 250; // Adjust chunk size as needed
@@ -50,6 +50,6 @@ const addPDFToChromaDB = async (pdfPath) => {
 };
 
 // Example usage
-const pdfPath = "./data/machine-learning-on-aws-how-to-choose.pdf";
+const pdfPath = "../data/692384_imhotep_manual.pdf";
 addPDFToChromaDB(pdfPath);
 
