@@ -1,0 +1,1406 @@
+[
+    {
+        "id": "7dab2c23-478c-41e5-96f0-8b0fa42322fc",
+        "text": "İzin Prosedürü Sayfa No : 1 Doküman No : İK -003 Revizyon No : 03 Revizyon Tarihi : 01.09.2021 Yayın Tarihi : 01.03.2018",
+        "metadata": {
+            "page_number": 1,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "16726e92-51f9-444c-b868-48f102b05635",
+        "text": "Dağıtım Hazırlayan İnsan Kaynakları Müdürlüğü Kontrol ve Onay GENEL MÜDÜR Şirket İçi",
+        "metadata": {
+            "page_number": 1,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "5f0b6c8d-8236-463c-9330-8c52578e1fb9",
+        "text": "Amaç : AKTEK çalışanlarının izin haklarının kullanım, takip, kontrol ve raporlamasını düzenlemek",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "8004f97d-bb4c-476b-89d9-fc1c94201ca3",
+        "text": "Uygulama Alanı: Tüm AKTEK",
+        "metadata": {
+            "page_number": 1,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "233733f0-f8e6-4483-bef5-26a1fa06b504",
+        "text": "İlgili Dokümanlar : İzin İstek Formu (EK -1), Ak tek Güncel İzin Durumları (EK -2) ,  İzin Defteri - Çalışan (EK-3)",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "b2c29920-0a27-4c49-b86d-782dbcdaff41",
+        "text": "Sorumlular: İnsan Kaynakları Yöneticiliği , Bölüm Müdürleri, Tüm Aktek Çalışanları",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "f7c96514-9382-46d1-996a-53dc81a77829",
+        "text": "Prosedür :",
+        "metadata": {
+            "page_number": 1,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "bfc7e86e-7a30-40f1-8a4a-ae2c4cf9c1e2",
+        "text": "Madde 1. – Amaç",
+        "metadata": {
+            "page_number": 1,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c881e7f5-02d9-427b-8982-7f80aff6956f",
+        "text": "Bu Prosedürün amacı,  şirket  çalışanlarının  izin  haklarının kullanımlarını  takip  etmek, kontrol  ve raporlamasını düzenlemektir.",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7672dc4c-8aae-4db2-84e4-0ff6113a72cf",
+        "text": "Madde 2. – Kapsam",
+        "metadata": {
+            "page_number": 1,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "da70dc8a-20ae-46e8-a349-e896e6edd554",
+        "text": "Bu  prosedür,  Şirket’te  iş  sözleşmesi  ile  çalışan  ve  toplu  iş  sözleşmeleri  kapsamında  olmayan ve/veya bundan yararlanamayan Personelin tümünü kapsar.",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "2f497207-f12f-45d5-b11b-3a6f0f93c710",
+        "text": "Yabancı  uyruklu  personel  ile  belirli  süreli  iş  sözleşmeli  personele,  sözleşmelerinde  bulunmayan hususlarda ve uygun olduğu ölçüde bu yönetmelik hükümleri uygulanır.",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "d4543850-fbce-476b-a7ee-30e4aca968ae",
+        "text": "Madde 3. - Yönetmelikte Geçen Terimler",
+        "metadata": {
+            "page_number": 1,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "dfa8667e-c427-4b92-97ff-1bded0aa0850",
+        "text": "Bu prosedürde ;",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "cd7697bf-6af9-43bf-9f65-5020ecb460f6",
+        "text": "”Şirket” terimi Aktek Bilgi İletişim Teknolojisi San. Ve Tic. A.Ş. hükmi şahsiyetini \"İnsan Kaynakları” terimi Şirketin İnsan Kaynakları yönetiminden sorumlu birim i \" Çalışan” terimi “Kapsam” başlıklı 2. maddede geçen tüm gerçek kişileri temsil etmektedir. “Mücbir  Sebep” terimi;  sağlık  sorunları,  birinci  derece  yakın  sağlık  sorunları,  Ücretli  Mazaret  İzni kapsamına girmeyen yakınların vefatı durumlarını ifade eder.",
+        "metadata": {
+            "page_number": 1,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7933e5d6-694a-493c-abb4-e3201331ab94",
+        "text": "BÖLÜM 2 – İZİN TANIMLARI",
+        "metadata": {
+            "page_number": 1,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c740eee0-8a20-4ed8-b4b2-346406cdd314",
+        "text": "Madde 4. – Yıllık İzin",
+        "metadata": {
+            "page_number": 1,
+            "type": "Caption",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "b0be1582-48b1-4151-80f5-09617921da53",
+        "text": "İzin Prosedürü Sayfa No : 2 Doküman No : İK -003 Revizyon No : 03 Revizyon Tarihi : 01.09.2021 Yayın Tarihi : 01.03.2018",
+        "metadata": {
+            "page_number": 2,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "a54ae693-b7c7-40f3-8ece-54514dfe7409",
+        "text": "Dağıtım Hazırlayan İnsan Kaynakları Müdürlüğü Kontrol ve Onay GENEL MÜDÜR",
+        "metadata": {
+            "page_number": 2,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7cfe8b50-4bc4-45cc-a691-a51e9105d649",
+        "text": "Yıllık İzin; işyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere, en az bir yıl çalışmış olan çalışanlara tanınan Ücretli İzin hakkıdır.",
+        "metadata": {
+            "page_number": 2,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "bf926c73-882e-453e-b3c8-646e1e079ec4",
+        "text": "4857 Sayılı İş Kanunu uyarınca izin hakediş hizmet süreleri ve izin gün sayıları aşağıdaki gibidir:",
+        "metadata": {
+            "page_number": 2,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "b134e31d-367c-4ff0-80f5-9b8c28bef04f",
+        "text": "",
+        "metadata": {
+            "page_number": 2,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "fee650da-b3b9-4b6b-8782-02f1f73d7420",
+        "text": "- Kıdemi 1 - 6 yıl (5.yıl dahil, 6.yıl hariç) arasında 14 gün",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "14f2facf-ef0d-42b3-9474-0506b411409c",
+        "text": "- Kıdemi 6 - 15 yıl (6.yıl dahil, 15.yıl hariç) arasında 20 gün",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "ed35abdf-98a4-4f47-ad2f-97f31e519c62",
+        "text": "- Kıdemi 15 yıl (15.yıl dahil) ve daha fazla olan çalışanlara 26 gün",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7150a7e6-4e75-4c7a-b257-078f4812f072",
+        "text": "İnsan K aynakları her yıl yönetimle birlikte belirlenen Köprü Tatillerini  her yılın başında çalışanlara duyuracaktır.",
+        "metadata": {
+            "page_number": 2,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "8c742ebd-80fa-4030-bafc-4627bed19167",
+        "text": "Madde 5. – Ücretli Mazeret İzinleri",
+        "metadata": {
+            "page_number": 2,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "e81a5e7c-9106-48f8-ae05-ffa960c3637c",
+        "text": "Ücretli mazeret izinleri doğum, ölüm, doğal afet vb. durumlarda, yıllık iznin haricinde çalışanlara tanınan Ücretli İzin hakkıdır.",
+        "metadata": {
+            "page_number": 2,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "9c97564f-dcd4-42bf-9144-d2b3c9c96626",
+        "text": "4857 Sayılı İş Kanunu uyarınca ve Personel Yönetmeliği’nde belirtildiği üzere izin hakediş sebepleri ve izin gün sayıları aşağıdaki gibidir:",
+        "metadata": {
+            "page_number": 2,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "26c14cf0-4f54-4c9d-9655-eb8ba112e9e1",
+        "text": "- Ücretli Mazeret İzni – Evlilik: Çalışanın evlenmesi durumda 5 işgünü,",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "6b296740-7836-4a2e-bc96-0fc63dd3a49b",
+        "text": "- Ücretli Mazeret İzni – Babalık: Çalışanın eşinin doğum yapması durumunda 5 işgünü,",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "8210370a-7ff6-47b6-9491-95604504e935",
+        "text": "- Ücretli Mazeret İzni – Ölüm: Çalışanın ana, baba, kardeş eş veya çocuklarının ölümü durumunda 3 işgünü ,",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "bb164ac7-d2c7-4972-9260-5c4fa4216aea",
+        "text": "- Ücretli Mazeret İzni – Evlat Edinme: personelin evlat edinmesi durumunda 3 iş günü",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "d7840e85-6282-4e82-9d07-ef40bd55c6eb",
+        "text": "- Ücretli Mazeret İzni – Personelin en az yüzde yetmiş oranında engelli veya süreğen hastalığı olan  çocuğun  tedavisinde:  Hastalık  raporuna  dayalı  olarak  ve  çalışan  ebeveynden  sadece biri tarafından kullanılması kaydıyla, bir yıl içinde toptan veya bölümler halinde 10 işgünü,",
+        "metadata": {
+            "page_number": 2,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "467ee84c-5e6f-4314-9d40-22c769d9950b",
+        "text": "Şirket İçi",
+        "metadata": {
+            "page_number": 2,
+            "type": "Page footer",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "49280e96-7a92-4fa2-92fd-0b9ef8ae61f7",
+        "text": "",
+        "metadata": {
+            "page_number": 2,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "27f96f25-2fb9-4597-b82e-7092c77b86fb",
+        "text": "İzin Prosedürü Sayfa No : 3 Doküman No : İK -003 Revizyon No : 03 Revizyon Tarihi : 01.09.2021 Yayın Tarihi : 01.03.2018",
+        "metadata": {
+            "page_number": 3,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "fbd00161-0faf-4865-84ce-016fa139dce9",
+        "text": "Dağıtım Hazırlayan İnsan Kaynakları Müdürlüğü Kontrol ve Onay GENEL MÜDÜR",
+        "metadata": {
+            "page_number": 3,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "63f99e89-0eec-4cf2-bd73-4b474d55d944",
+        "text": "- Ücretli  Mazeret  İzni  – Tabii  Afet:  personelin  tabii  afetten  etkilenme si  halinde  10  işgünü ücretli mazeret izni verilir.",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "e197bd47-77de-48ec-a8ef-d33f71a871b5",
+        "text": "",
+        "metadata": {
+            "page_number": 3,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "702c2efe-5ccb-4a29-ac50-b7af3952347b",
+        "text": "Madde 6. – Diğer Ücretli İzinler",
+        "metadata": {
+            "page_number": 3,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "6fec1d5f-7828-47f2-987c-03d58152b740",
+        "text": "a) Diğer Ücretli İzin – Doğum Günü İzni",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "f040736b-2961-4536-b5c6-d4ea9c25ee5b",
+        "text": "Doğum Günü İzni 1 işgünü olarak; doğum günü tarihinden ( resmi kayıtlarda yazılı olan doğum tarihi)  bir önceki veya bir sonraki haf ta içinde kullanılabilir. Haftasonu, resmi tatil vb. tatil günlerine denk gelen durumlarda da aynı kural geçerlidir. Zamanında kullanılmayan doğum günü izinlerinin farklı tarihlerde kullanılamaz.",
+        "metadata": {
+            "page_number": 3,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "0d685916-0538-4d04-87fe-3d991773190c",
+        "text": "b) Diğer Ücretli İzin – İş Arama İzni",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "454863c0-be3f-4d45-848d-296eef550fa6",
+        "text": "İş Arama İz ni;  ih bar önel süreleri içerisinde, çalışana yeni bir iş bulması için verilen izinlerdir. İhbal önel süreleri (deneme süresi dahil) kanunla aşağıdaki şekilde düzenlenmiştir:",
+        "metadata": {
+            "page_number": 3,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "bf63331a-ca71-4a99-84b0-acd5bf64d429",
+        "text": "- Hizmet Süresi 6 aydan az sürmüş çalışan için 2 hafta,",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7c55853e-0be8-41f9-92ac-d12c6c5d65f9",
+        "text": "- Hizmet Süresi 6 aydan 1.5 yıla kadar sürmüş çalışan için 4 hafta,",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "d2b0cc9a-c6e1-41b8-834d-ceb69e9f18c1",
+        "text": "- Hizmet süresi 1.5 yıldan 3 yıla kadar sürmüş çalışan için 6 hafta,",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "eed72988-f8be-4f74-b328-984249e29746",
+        "text": "- Hizmet süresi 3 yıldan fazla sürmüş işçi çalışan 8 hafta",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "6b320aea-30fd-438b-9a56-884f5229886f",
+        "text": "İş Arama İzni günde 2 saat olarak kullanılır. Talep doğrultusunda haftada 1 gün olarak da kullanıl abilir.",
+        "metadata": {
+            "page_number": 3,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "8d1788aa-b412-4280-9894-44d464a18319",
+        "text": "c) Diğer Ücretli İzin – İdari İzin",
+        "metadata": {
+            "page_number": 3,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c4043240-fd73-4cee-96f8-18c66a3a02d0",
+        "text": "İdari İzinler; çalışan tarafından mücbir sebeplerle saatlik olarak kullanılabilir. Saatlik İdari İzinler günde en fazla 4 saat/ ayda 12 saat kullanılabilir. İdari izinler yıllık 27 saat ile sınırlıdır.",
+        "metadata": {
+            "page_number": 3,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "8a28b773-3e8b-4736-be6b-278c60f644a3",
+        "text": "Şirket İçi",
+        "metadata": {
+            "page_number": 3,
+            "type": "Page footer",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "6ea15209-a79f-4e77-9969-82c42b06a6a5",
+        "text": "",
+        "metadata": {
+            "page_number": 3,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "86c3c412-2665-4653-a743-1ebf715efc9b",
+        "text": "İzin Prosedürü Sayfa No : 4 Doküman No : İK -003 Revizyon No : 03 Revizyon Tarihi : 01.09.2021 Yayın Tarihi : 01.03.2018",
+        "metadata": {
+            "page_number": 4,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c8f6e151-e067-4ec6-a916-5c013743872e",
+        "text": "Dağıtım Hazırlayan İnsan Kaynakları Müdürlüğü Kontrol ve Onay GENEL MÜDÜR Şirket İçi",
+        "metadata": {
+            "page_number": 4,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "def0f79c-c899-4225-a307-ccb2ae5cd79d",
+        "text": "Saatlik  idari  izinler;  esnek  çalışma  saatleri  göz  önünde  bulundurularak  belirlenen  sınırlama içerisinde çalışanın mesai başlangıç ve bitiş baz alınarak kullanılır. İdari  İzinler  çalışanın  yöneticisi  tarafından  takip  edilerek  yukarıdaki  kritere  uymadığı durumlarda reddedilir.",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "2ac158dd-c4af-4fcc-ac5a-11f3c361b982",
+        "text": "Aşılan süreler, yıllık izin bakiyesinden düşülecek şekilde işleme alınır.",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "e9c6b4a5-ba71-4599-bb63-f99e4e14cc5c",
+        "text": "",
+        "metadata": {
+            "page_number": 4,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7f723df3-ba2e-48e8-af29-8e1961e702e4",
+        "text": "d) İstirahat İzinleri:",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "9c3d9661-635d-4d6d-a33f-cda3058436e3",
+        "text": "Sağlık  verilerimiz,  “Kişisel  Verilerin  Korunması  Kanunu’nun”  belirlediği  niteliklere  göre  “özel nitelikli veri”dir. Öte yandan Personel Yönetmeliğimize göre;",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "532f489d-df7f-4fbb-9f02-8cf46619804b",
+        "text": "a) Hastalanan  ve  işine  gelemeyecek  Personel,  “8  saat”  içinde  yöneticisine  durumu  bildirir. İstirahat  veya  kritik  şekilde  hastalığı  nedeniyle  durumunu  bildirmesi  mümkün  olmayan personellerin yakını  veya  kendisi işyerine  bilgi  ver ir. İlgili  istirahat  tarihlerini  Aktek  İzin Sistemine girer.",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "627e8968-9492-4b3b-8db5-5200f66cbcd5",
+        "text": "b) Personel, iki günü aşan hastalık hallerinde, sağlık kurumu raporunun Şirket tarafından ilgil i sistem  üzerinden  kontrol  edilebilmesi  için  Şirket’e  “48  saat”  içinde  bilgi  vermekle  veya  sağlık kurumu raporunu 48 saat içinde Şirket’e teslim etmekle yükümlüdür Bu 2 durumu göz önünde bulundurarak çalışan, İstirahat  raporlarında  belirtilen  başlangıç  ve  çalışabilir  tarihinin  ERP  izin  sistemine  girer (“İstirahat” izin tipinin seçilmesi)",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "08386062-750c-4e8c-84f5-aa20e2ae34f8",
+        "text": "İstirahat raporlarının asıllarının işyeri hekimine teslim eder",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "a5e54d8c-698b-4d59-b69f-83b9b5d77834",
+        "text": "ÇŞGB  ofis  çalışma  mevzuatı  çerçevesinde  işleyiş  prosedürde  ilerleyecektir. Tüm  izinler  ve istirahatler,  iş  kanunu  ve  ÇŞGB  yayınladığı  resmi  kanun  ve  benzeri  kanunlara  göre  şekillenir. Çalışanlar konuyla ilgili bilgilendirilir.",
+        "metadata": {
+            "page_number": 4,
+            "type": "Text",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "818b0822-1918-4aef-873c-b8e68b496385",
+        "text": "İzin Prosedürü Sayfa No : 5 Doküman No : İK -003 Revizyon No : 03 Revizyon Tarihi : 01.09.2021 Yayın Tarihi : 01.03.2018",
+        "metadata": {
+            "page_number": 5,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "4ddd45b6-8a59-419a-b239-5e1f5419d6d0",
+        "text": "Dağıtım Hazırlayan İnsan Kaynakları Müdürlüğü Kontrol ve Onay GENEL MÜDÜR",
+        "metadata": {
+            "page_number": 5,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "24421870-d501-43ff-998b-ec8995744721",
+        "text": "BÖLÜM 3 – İZİN SÜRECİ",
+        "metadata": {
+            "page_number": 5,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "df79e219-0e8b-4f87-aab5-d2619e5082d0",
+        "text": "Madde 7. – İzin Girişinin Yapılması",
+        "metadata": {
+            "page_number": 5,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "34852160-d1d6-44c0-8b0f-96915b9074bb",
+        "text": "1) Çalışan, izne çıkmadan en az 2 gün önce Aktek İzin Sistemi üzerinden ilgili izin türünü seçerek izin girişini yapar.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "d1c118e2-b7e4-44c5-b602-4d2f6b2c4894",
+        "text": "2) İlgili yıla ait Yıllık İzin Planlaması kapsamında yılın ilk 3 ayı içerisinde İzin Sistemi üzerinden kaydedilmiş izinler için; izne çıkmadan en az 2 gün önce onaya göndermek yeterlidir.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "1c49c793-615b-409f-912e-fe4cd60acd0b",
+        "text": "3) Çalışan tarafından girilen izin önce Birinci Yönetici onayına (Ekip Liderleri/Bölüm Müdürleri) gider.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "e30038b0-db2f-4c58-a2bb-fcd560c68c99",
+        "text": "4) Birinci yönetici tarafından onaylanan izinler İnsan Kaynakları onayına düşer .",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "9b966a50-8937-491e-b4e3-1c9b16504ae2",
+        "text": "Madde 8. – İzin İstek Formu",
+        "metadata": {
+            "page_number": 5,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "8f3db4dd-3030-4d5c-bb3b-3869afe78208",
+        "text": "1) Çalışan, iznin onaylandığına dair gelen bilgi mesajının ardından İzin İstek Formunun bir çıktısını alır.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "0883854c-dc57-48ed-b53c-a6e7d03b1923",
+        "text": "2) Formu kendisi imzaladıktan sonra İnsan Kaynakları’na teslim eder.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "5c4e451d-4c66-463e-ae8e-3a2176700536",
+        "text": "3) İlgili aya ait izin istek formaları en geç o ayın son iş gününe kadar İnsan Kaynakları’na teslim edilm ek zorundadır.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "071f021e-b1dd-4eea-adb1-d6c74e871c99",
+        "text": "Madde 9. – İzin Hakediş ve Bakiyeleri",
+        "metadata": {
+            "page_number": 5,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "71bff597-e4f1-4d25-adda-d96515f89f5a",
+        "text": "1) İzin Bakiyeleri, izin istek formlarında yer almaktadır.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "ff062bf9-16c9-4003-8829-f3c97e474dd5",
+        "text": "2) Ücretli mazeret izinleri ve diğer ücretli izinler Yıllık İzin bakiyesinden düşülmemektedir.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "93a4e51e-9c06-4bbf-b2e4-1fb5e1bb3eb6",
+        "text": "3) Ücretsiz izin süreci; İş Kanunu baz alınarak yürütülü r.",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "55454cfc-c6c5-4ddf-a0a5-20f7d72f0d25",
+        "text": "4) Çalışanın izin hakedişi, işe girdiği tarih baz alınarak hesaplanır ve her yıl güncellenir. İstisna durumlar aşağıdaki gibidir:",
+        "metadata": {
+            "page_number": 5,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c404c779-aea6-4fc3-ac97-6a29bbd4f5e9",
+        "text": "Şirket İçi",
+        "metadata": {
+            "page_number": 5,
+            "type": "Page footer",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "61b8e493-aefb-4b3b-84cf-1c43f87ef6ea",
+        "text": "",
+        "metadata": {
+            "page_number": 5,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "ae27ff1d-48b9-4902-b5e8-caa29aa56965",
+        "text": "İzin Prosedürü Sayfa No : 6 Doküman No : İK -003 Revizyon No : 03 Revizyon Tarihi : 01.09.2021 Yayın Tarihi : 01.03.2018",
+        "metadata": {
+            "page_number": 6,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "076b37ec-33af-4e59-a647-b04466837f50",
+        "text": "Dağıtım Hazırlayan İnsan Kaynakları Müdürlüğü Kontrol ve Onay GENEL MÜDÜR",
+        "metadata": {
+            "page_number": 6,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "8caabffb-8252-4e3b-9782-ff4595771aca",
+        "text": "Şirket İçi",
+        "metadata": {
+            "page_number": 6,
+            "type": "Section header",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "be9bfd4c-4632-4be2-a5dd-34bf3a4c9fb4",
+        "text": "",
+        "metadata": {
+            "page_number": 6,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c091fb0a-b583-4b68-a934-024615b75fe2",
+        "text": "",
+        "metadata": {
+            "page_number": 6,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "6dea5dc1-c6e4-4697-bc14-890124dda9ac",
+        "text": "- Çalışan,  Akkök  Grup  şirketlerinden  transfer  oldu  ise;  Akkök  Grubuna  ilk  giriş  tarihi referans alınır.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "2bea5a70-866d-4a1d-bf59-02449bffeb29",
+        "text": "- Çalışan,  Askerlik  sebebiyle  işten  ayrılmış  ve  askerliğini  tamamladığında  şirketteki görevine devam ediyor ise; şirkete ilk giriş tarihi referans alınır.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "2d2fa247-f059-48df-80cf-6fdbfb5e56ba",
+        "text": "5) Yeni işe girişlerde çalışan, 6 aylık kıdemini doldurduktan sonra en fazla 7 gün olmak şartıyla Yıllık İzin bakiyesinden kullan abilir. Kullanılan izinler, izin hakedişinden sonra bakiyesinden düşülür.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7d1354d1-d422-4c6a-bf8e-a5f6a186fd67",
+        "text": "6) Çalışanların bakiyesi en fazla eksi 7 olabilir. Çalışanların bakiyeleri yönetici kontrolünde dir.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "f4222da4-80dc-419d-a77e-914987e879c5",
+        "text": "7) Bakiyesi  -7  ve  (<  - 7)  olan  çalışan mücbir  sebepler  ile ücretsiz  izin  kullanabilir. Ücretsiz  izin talepleri Yönetici ve GM onayı ile yürütülür.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "9cab8e74-4d08-47b3-9199-5db0a4fb14c7",
+        "text": "8) Çalışan 5 günlük Yıllık İzin setini doldurduğunda 1 Cumartesi izni bakiyesinden düşmektedir.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "bd955018-3489-4edf-bd8a-a0de01dddb2c",
+        "text": "9) Herhangi  bir  hastalık  durumunda  işe  gelmeyen  çalışan  istirahat  raporu  bulunmaması durumunda ilgili gün sayısı Yıllık İzin bakiyesinden düşülür.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "a03b312b-b80e-4cf5-82e0-80e309456dd3",
+        "text": "10) Bedelli  Askerlik:  03  Ağustos  2018  tarihli,  30498  sayılı  Resmî  Gazete’de  yayımlanarak yürürlüğe  giren  Askerlik  Kanunu  ile  Diğer  Bazı  Kanunlarda  ve  663  sayılı  Kanun  Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun ile 1111 sayılı Askerlik Kanunu’na eklenen Geçici 55’inci maddede yapılan düzenleme kapsamında Bedelli Askerlik çıkmıştır.  Kanunda yapılan  değişiklik  akabinde  Bedelli  Askerlik  yapacak  olan  çalışanın  ücretsiz  izne  ayrılması açıkça belirtilmiştir. Haziran 2021 tarihinde yayınlanan Bedelli Askerli şartları ve esaslarına göre  yaş  sınırı  kaldırılmıştır.    Bedelli  askerlik  nedeni  ile  ücretsiz  izin  kullanacak çalışanlarımız,  askerlik  tecilleri,  bedelli  askerlik  başvurusu  ve  askere  gidiş  ile  ilgili  gerekli bilg ileri yönetici ile önceden paylaşarak izin sistemine giriş yapabilir .",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "0b602293-037a-4f4f-a5ac-1ce0991645ad",
+        "text": "11) İzin tipleri:",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "b5da1055-5a57-42d3-a845-9837086ecb1d",
+        "text": "- Doğum Günü İzni: Çalışana doğum günü haftası veya 1 hafta öncesi, sonrasına ilişkin verilen 1 günlük ücretli izindir.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "fd59b285-a980-417f-9115-ed1a2a143d5b",
+        "text": "- İstirahat: çalışana resmi bir sağlık kurumu tarafından verilen hekim onaylı raporlardır.",
+        "metadata": {
+            "page_number": 6,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "e3b1ffb4-4ac1-471b-afe1-247ebf2be72a",
+        "text": "İzin Prosedürü Sayfa No : 7 Doküman No : İK -003 Revizyon No : 03 Revizyon Tarihi : 01.09.2021 Yayın Tarihi : 01.03.2018",
+        "metadata": {
+            "page_number": 7,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "816db3f3-c664-49f2-b6f6-3877af7f0bcd",
+        "text": "Dağıtım Hazırlayan İnsan Kaynakları Müdürlüğü Kontrol ve Onay GENEL MÜDÜR",
+        "metadata": {
+            "page_number": 7,
+            "type": "Table",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "7baeeae6-4ad4-4b6f-8ded-3cedce267d18",
+        "text": "",
+        "metadata": {
+            "page_number": 7,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "3288e0f7-7326-4771-b553-cdbde0b7a261",
+        "text": "- Bedelli Askerlik İzni: Bedelli askerlik nedeniyle askerlik süresince kullanılacak ücretsiz izindir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "ec55e7f8-d9ec-46f3-9b98-70add3a6d6f5",
+        "text": "- Babalık İzni: Çalışanın eşinin doğum yapması halinde 5 iş gün için verilen izindir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "67143788-3778-4b84-b30a-87d28d771730",
+        "text": "- Evlat Edinme İzni: Çalışanın evlat edinmesi halinde 3 iş günü için verilen izindir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "efb15887-c277-4673-ace8-b45d1633c180",
+        "text": "- Evlilik İzni: Çalışanın evlenmesi halinde 5 iş günü için verilen izindir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "2df42c64-a386-445a-b4f4-b0e9a4b31329",
+        "text": "- Süt izni: Kadın çalışanın 8 haftalık doğum izni bitişi i tibariyle başlayıp çocuk 1 yaşına gelene kadar ki süre içinde günlük 1,5 saattir. Çalışan uzaktan çalışma veya hibrit model ile çalışıyorsa süt izni günlük 1,5 saat olarak kullanılır.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c3945b94-8764-49b0-8575-133a706bed28",
+        "text": "- T abii Afet İzni: Tabii afet koşullarından etkilenen çalışana 10 iş günü için verilen",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "280542da-eaa8-435a-ab02-dc851d30ecd3",
+        "text": "- Yıllık İzin: Çalışan bir tam yılı doldurması halinde kullanmaya hak kazandığı izindir. Personelin yıllık ücretli izin hakkını takip eden yıl içinde kullanması gerekir; bu hak yerine para ödenmesi söz konusu olamaz.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "3376d03c-7440-4663-b4c9-aaad5e4e9cea",
+        "text": "- Ölüm İzni: Çalışanın ana, baba, kardeş, eş veya çocuklarının ölümü halinde 3 iş günü için verilen iz indir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "c39b84a5-5294-429d-880e-4ebcd0ba1c6f",
+        "text": "- Ücretsiz Doğum İzni: Ücretli analık izninin bitmesinden sonra kadın çalışanın isteği durumunda 6 aya kadar verilen izindir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "bab6bf80-3100-4ccc-aced-5f4e70df1248",
+        "text": "- Ücretsiz Mazeret İzni: Mücbir sebepler nedeniyle çalışana isteği halinde verilen izindir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "064d3454-09dc-4c21-9c1e-6a7043f6963f",
+        "text": "- İdari İzin: çalışan tarafından mücbir sebeplerle saatlik olarak kullanılan izindir. S aatlik idari izinler günde en fazla 4 saat / ayda 12 saat kullanılabilir. Yıllık izin limiti 27 saattir. İlgili giriş saatleri çalışanın yöneticisi tarafından takip edilir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "cf4c4a6b-cd1c-4d0a-80d3-791c969b08fd",
+        "text": "- İş Arama İzni: İhbar süresi içinde çalışana yeni bir iş bulması için günde en az 2 saat için verilen izindir. Bu süreyi hafta içerisindeki 1 tam günde kullanabilir.",
+        "metadata": {
+            "page_number": 7,
+            "type": "List item",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "f07e9111-e34a-45d2-9c16-f586b598ddce",
+        "text": "Şirket İçi",
+        "metadata": {
+            "page_number": 7,
+            "type": "Page footer",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    },
+    {
+        "id": "0298535a-bf83-4bd8-806e-2689a74634a2",
+        "text": "",
+        "metadata": {
+            "page_number": 7,
+            "type": "Picture",
+            "Revizyon No": "03",
+            "Revizyon Tarihi": "01.09.2021",
+            "Yayın Tarihi": "01.03.2018",
+            "Hazırlayan": null
+        }
+    }
+]

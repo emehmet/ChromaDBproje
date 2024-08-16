@@ -34,33 +34,33 @@
     text-align: left;
     margin-left: 50px;
     margin-right: 50px;
+    border-radius: 50px;
   }
   
   .results pre {
     background-color: #e9ecef;
-    padding: 100px;
-    border-radius: 50px;
-     
-  }
+    padding: 20px;  /* Adjusted padding */
+    border-radius: 10px;  /* Adjusted border-radius */
+    white-space: pre-wrap; /* Ensure text wraps within the element */
+    overflow: auto; /* Allow scrolling for overflow content */
+}
 
-  .results-list {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  .result-item {
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.5;
-    margin-bottom: 20px; 
-    background-color: #f9f9f9;
-    padding: 10px;
-    border-radius: 4px;
-  }
+.results-list {
+    list-style-type: disc; /* Use 'disc' for bullet points, 'decimal' for numbers */
+    padding-left: 20px;  /* Indent the list items */
+}
 
-  .result-paragraph {
+.result-item {
     font-family: Arial, sans-serif;
     font-size: 14px;
     line-height: 1.5;
     margin-bottom: 10px; 
-  }
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.result-paragraph {
+    margin: 0;  /* Remove default margin */
+    padding: 0;  /* Remove default padding */
+}
