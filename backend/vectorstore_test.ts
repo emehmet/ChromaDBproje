@@ -5,7 +5,7 @@ import { ChromaEmbeddingFunction } from "../src/Utils/embedding";
 import type { Document } from "@langchain/core/documents";
 
 // Initialize the embedding function and vector store
-const embeddingFunction = new ChromaEmbeddingFunction({ apiKey: "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" });
+const embeddingFunction = new ChromaEmbeddingFunction({ apiKey: "" });
 const vectorStore = new Chroma(embeddingFunction, { collectionName: "test-collection", url: "http://localhost:8000" });
 
 // Path to the JSON file
