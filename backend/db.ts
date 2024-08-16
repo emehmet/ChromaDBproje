@@ -15,7 +15,7 @@ app.use(cors());
 
 
 const embeddingFunction = new ChromaEmbeddingFunction(
-  { apiKey: "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" }
+  { apiKey: "" }
 );
 
 const vectorStore = new Chroma(embeddingFunction, {
