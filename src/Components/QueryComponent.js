@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-import './QueryComponent.css';
-
+import "./QueryComponent.css";
 
 const QueryComponent = () => {
   const [queryText, setQueryText] = useState("");
@@ -11,13 +10,17 @@ const QueryComponent = () => {
   const handleQuery = async () => {
     try {
       const response = await axios.post(
-        "http://localhost:5000/api/collection/pdf_collection/query",
+        "http://localhost:5001/api/collection/bulk-test/query",
         {
-          queryTexts: [queryText],
-          nResults: 5, // Number of results to return
+          queryTexts: queryText,
+          nResults: 5,
         }
       );
-      setResults(response.data.documents);
+
+      console.log("Response data:", response.data);
+
+      // Ensure the response data structure matches your expectations
+      setResults(response.data.documents[0] || []); // Assuming pairedResults should be an array
     } catch (err) {
       console.error("Error querying:", err);
       setError("Error querying the database");
@@ -41,11 +44,11 @@ const QueryComponent = () => {
       <div className="results">
         <h2>Results</h2>
         <ul className="results-list">
-          {results.map((result, index) => (
+          {results?.map((result, index) => (
             <li key={index} className="result-item">
-              {result.map((paragraph, pIndex) => (
-                <p key={pIndex} className="result-paragraph">{paragraph}</p>
-              ))}
+              <p key={index + "a"} className="result-paragraph">
+                {result}
+              </p>
             </li>
           ))}
         </ul>

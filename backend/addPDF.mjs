@@ -1,55 +1,53 @@
-import fs from "fs";
-import { getDocument } from "pdfjs-dist";
 import { ChromaClient } from "chromadb";
-import { TokenTextSplitter } from "@langchain/textsplitters";
+import fs from "fs";
+import path from "path";
+import { ChromaEmbeddingFunction } from "../src/Utils/embedding.mjs";
 
-const extractTextFromPDF = async (filePath) => {
-  const data = new Uint8Array(fs.readFileSync(filePath));
-  const pdfDoc = await getDocument({ data }).promise;
-  let text = "";
+// Read the JSON data from the file
+const jsonFilePath = "./data/cleaned_AKTEK İZİN PROSEDÜRÜ.json";
+const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, "utf8"));
 
-  for (let i = 1; i <= pdfDoc.numPages; i++) {
-    const page = await pdfDoc.getPage(i);
-    const content = await page.getTextContent();
-    text += content.items.map((item) => item.str).join(" ");
+// Initialize the ChromaDB client
+const client = new ChromaClient();
+
+// Define the collection name
+const collectionName = "test-collection-2";
+const embeddingFunction = new ChromaEmbeddingFunction({
+  apiKey: "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",
+});
+// Function to upsert documents into ChromaDB
+async function upsertDocuments() {
+  try {
+    // await client.reset();
+    // Create or get the collection
+    const collection = await client.getOrCreateCollection({
+      name: collectionName,
+      embeddingFunction: embeddingFunction,
+    });
+
+    // Process the JSON data
+    const documents = jsonData.map((item) => item.text);
+
+    const metadata = jsonData.map((item) => item.metadata);
+    const ids = jsonData.map((item) => item.id);
+    // console.log("docs", {
+    //   documents: documents,
+    //   metadata: metadata,
+    //   ids: ids,
+    // });
+    // Upsert documents into the collection
+    await collection.add({
+      documents: documents,
+      // embeddings: None,
+      metadata: metadata,
+      ids: ids,
+    });
+
+    console.log("Documents have been upserted successfully.");
+  } catch (error) {
+    console.error("Error upserting documents:", error);
   }
+}
 
-  return text;
-};
-
-const splitTextIntoChunks = async (text, chunkSize) => {
-  const textSplitter = new TokenTextSplitter({
-    chunkSize: 250,
-    chunkOverlap: 50,
-  });
-
-  const chunks = await textSplitter.splitText(text);
-  return chunks;
-};
-
-const addPDFToChromaDB = async (pdfPath) => {
-  const client = new ChromaClient({ endpoint: "http://localhost:8000" });
-  const pdfText = await extractTextFromPDF(pdfPath);
-
-  const chunkSize = 250; // Adjust chunk size as needed
-  const textChunks = await splitTextIntoChunks(pdfText, chunkSize);
-
-  const collection = await client.getOrCreateCollection({
-    name: "pdf_collection",
-  });
-
-  // Use unique IDs for each chunk
-  const chunkIds = textChunks.map((_, index) => `pdf_chunk_${index}`);
-
-  await collection.upsert({
-    documents: textChunks,
-    ids: chunkIds,
-  });
-
-  console.log("PDF text chunks added to ChromaDB");
-};
-
-// Example usage
-const pdfPath = "./data/machine-learning-on-aws-how-to-choose.pdf";
-addPDFToChromaDB(pdfPath);
-
+// Run the upsert function
+upsertDocuments();
