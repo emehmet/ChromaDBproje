@@ -13,7 +13,7 @@ const client = new ChromaClient();
 // Define the collection name
 const collectionName = "test-collection-2";
 const embeddingFunction = new ChromaEmbeddingFunction({
-  apiKey: "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",
+  apiKey: "",
 });
 // Function to upsert documents into ChromaDB
 async function upsertDocuments() {
