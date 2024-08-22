@@ -11,7 +11,7 @@ app.use(cors());
 
 const client = new ChromaClient();
 const embeddingFunction = new ChromaEmbeddingFunction({
-  apiKey: "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",
+  apiKey: "",
 });
 // app.get("/api/collection/:name", async (req, res) => {
 //   try {
