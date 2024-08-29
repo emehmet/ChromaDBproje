@@ -27,7 +27,7 @@ async function uploadFile(filePath: string) {
     form.append('types', 'all');
 
     try {
-        const response = await axios.post(/*'http://10.50.17.5:5060'*/'http://localhost:5080', form, {
+        const response = await axios.post('3.68.13.194:5060'/*'http://localhost:5080'*/, form, {
             headers: {
                 ...form.getHeaders(),
             },
@@ -234,17 +234,12 @@ export function writeToFile(fileName: string, array: Promise<Object[]>) {
 // Example usage
 // const filePath = 'C:/Users/ceyhun.erdonmez/Desktop/pdfs/Performans ve Performansa Bağlı Prim Sistemi.pdf';
 // const extractedTexts = filterData(filePath);
-//writeToFile('ÇALIŞMA MODELİ PROSEDÜRÜ-', extractedTexts);
 
 
-var files = fs.readdirSync('C:/Users/ceyhun.erdonmez/Desktop/pdfs/');
+// var files = fs.readdirSync('C:/Users/ceyhun.erdonmez/Desktop/pdfs/');
 
-for (const item of files) {
+// for (const item of files) {
     
-    const extractedTexts = filterData(`C:/Users/ceyhun.erdonmez/Desktop/pdfs/${item}`);
-    //writeToFile(item.substring(0, item.length - 4), extractedTexts);
-}
-
-
-// Output the extracted text array
-//console.log(extractedTexts);
+//     const extractedTexts = filterData(`C:/Users/ceyhun.erdonmez/Desktop/pdfs/${item}`);
+//     //writeToFile(item.substring(0, item.length - 4), extractedTexts);
+// }
