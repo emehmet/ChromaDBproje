@@ -1,17 +1,20 @@
 // backend/server.js
-import express from "express";
-import { ChromaClient } from "chromadb";
-import cors from "cors";
-import { ChromaEmbeddingFunction } from "../src/Utils/embedding.mjs";
+import express from 'express';
+import { ChromaClient } from 'chromadb';
+import cors from 'cors';
+import 'dotenv/config';
+import { ChromaEmbeddingFunction } from '../src/Utils/embedding.mjs';
 const app = express();
 const port = 5001;
 
 app.use(express.json());
 app.use(cors());
 
-const client = new ChromaClient();
+const client = new ChromaClient({
+  path: process.env.CHROMADB || 'http://localhost:8000',
+});
 const embeddingFunction = new ChromaEmbeddingFunction({
-  apiKey: "",
+  apiKey: process.env.HUGGINGFACE_API_KEY,
 });
 // app.get("/api/collection/:name", async (req, res) => {
 //   try {
@@ -38,7 +41,7 @@ const embeddingFunction = new ChromaEmbeddingFunction({
 //   }
 // });
 
-app.post("/api/collection/:name/query", async (req, res) => {
+app.post('/api/collection/:name/query', async (req, res) => {
   try {
     const { name } = req.params;
     const { queryTexts, nResults } = req.body;
